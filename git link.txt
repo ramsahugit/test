@@ -10,6 +10,9 @@ $ git config --list
 
 java---
 
+
+test____
+
 https://www.guru99.com/install-java.html
 
 jenkins 
