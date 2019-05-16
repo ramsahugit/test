@@ -1,0 +1,20 @@
+https://github.com/ramsahugit/devrepro
+
+# Setting Up User Name and Email Address
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+# Checking Your Settings
+$ git config --list
+
+
+
+java---
+
+https://www.guru99.com/install-java.html
+
+jenkins 
+
+ec2-18-234-144-244.compute-1.amazonaws.com:8080/
+
+ramadmin/!Ch00
+
